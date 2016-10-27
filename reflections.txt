@@ -8,3 +8,15 @@ Creates a history log, and this is needed to have a verion control of the files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 IT groups files together in commits. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use it to separate my 'commit' into several, including the files for each logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Experiments, Testing new features. The branches helps by using the naming
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that we add a feature or experiment to the working project (master). It's easy to follow the different branches with the diagram
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git merges when there are no conflics and decitions to be taken
