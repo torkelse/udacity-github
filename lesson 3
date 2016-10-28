@@ -10,3 +10,5 @@ Forks are used in Github to get another users repository when you dont have acce
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If we go offline and continue to develop we still have the latest software to work with
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A lot of comminucation using mail to agree on how to fix thing in the code
